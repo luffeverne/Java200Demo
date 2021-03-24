@@ -1,0 +1,3 @@
+e2设置为error1
+e2设置为error2
+整合变量, 结果:错误有:error1,error2
